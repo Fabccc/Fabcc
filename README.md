@@ -8,16 +8,18 @@ I'm Fabien CAYRE. A devops engineer for MULTI-IMPACT and backend developer in my
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,linux,md)](https://skillicons.dev)
 
-## Backend Skills
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,ts)](https://skillicons.dev)
-
 ## Devops Engineering
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,helm,bash,py,powershell,docker,ansible)](https://skillicons.dev)
 
+## Backend Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,ts,quarkus,django)](https://skillicons.dev)
+
 ## Projects
 
+- `🐣` [ELYTRA](https://github.com/Elytra/elytra)<br>
+   \\__ - Fully featured framework for building Minecraft server efficiently
 - `🐣` [FLOW](https://github.com/Otomny/flow)<br>
     \\__ - Framework for building Minecraft server efficiently, using AOP and splittig data-access, security and logging from business logic.
 - `🐥` [MuscleHack](https://github.com/ComminQ/MuscleHack)<br>
