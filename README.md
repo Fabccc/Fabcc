@@ -18,13 +18,13 @@ I'm Fabien CAYRE. A devops engineer for MULTI-IMPACT and backend developer in my
 
 ## Projects
 
-- `🐣` [ELYTRA](https://github.com/Elytra/elytra)<br>
+- `🐣` [ELYTRA](https://github.com/ElytraIO/elytra)<br>
    \\__ - Fully featured framework for building Minecraft server efficiently
-- `🐣` [FLOW](https://github.com/Otomny/flow)<br>
+- `🧰` [FLOW](https://github.com/Otomny/flow)<br>
     \\__ - Framework for building Minecraft server efficiently, using AOP and splittig data-access, security and logging from business logic.
-- `🐥` [MuscleHack](https://github.com/ComminQ/MuscleHack)<br>
+- `🧰` [MuscleHack](https://github.com/ComminQ/MuscleHack)<br>
     \\__ - Multi platform mobile application used for tracking sport performances (mainly in gym).
-- `🐥` [LeTrollVM](https://github.com/ComminQ/LeTrollVM)<br>
+- `🧰` [LeTrollVM](https://github.com/ComminQ/LeTrollVM)<br>
     \\__ - Java Virtual Machine made in Typescript. Mainly for exploring how the JVM works and optimize code / how the bytecode is interpreted.
 
 <!--
